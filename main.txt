@@ -1,0 +1,3 @@
+main
+ahorcado_diagramas
+palabras
